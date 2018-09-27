@@ -35,8 +35,8 @@ if(v===k) {
  } else if(v>k){
 	return 1;
  } else {
-	return (-1)
-	;}
+	return (-1);
+}
 };
 console.log(number(8,10));
 
